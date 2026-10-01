@@ -1,0 +1,10 @@
+Beyond Queue (Supabase edition)
+
+1. npm install
+2. Copy .env.local.example to .env.local and paste your Supabase Project URL + anon key
+3. Supabase Dashboard > SQL Editor: run supabase/schema.sql   (optional: supabase/seed.sql for demo patients)
+4. npm run dev  ->  http://127.0.0.1:4321
+5. Click "Sign in" > "Create an account". The FIRST account becomes the administrator.
+   Give other staff roles on the Staff page.
+
+See README.md for details.
