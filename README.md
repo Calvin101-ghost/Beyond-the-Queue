@@ -23,7 +23,6 @@ audit trail, and pilot metrics.
 Data now lives in **Supabase** (Postgres + Auth + Realtime) with Row Level Security.
 Nothing patient-related is stored in the browser.
 
-
 ```
 
 Then open **Sign in → Create an account**. The first account becomes the
